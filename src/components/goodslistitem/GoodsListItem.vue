@@ -1,13 +1,11 @@
 <template>
-  <div class="goods-list-item" :key="goodsItem.id">
-    <a href="#">
+  <div class="goods-list-item" :key="goodsItem.id" @click="itemClick">
       <img  class="goods-list-item-img"  :src="goodsItem.imgUrl" alt="" @load="imageItemLoad">
       <div class="goods-list-item-text">
         <p class="item-name">{{goodsItem.text}}</p>
         <span class="item-price">{{goodsItem.price | showPrice}}</span>
         <span class="item-coll">{{goodsItem.coll}}</span>
       </div>
-    </a>
   </div>
 </template>
 
@@ -30,6 +28,9 @@
     methods:{
       imageItemLoad(){
         this.$bus.$emit('imageLoad');
+      },
+      itemClick(){
+        this.$router.push('/detail/'+this.goodsItem.id);
       }
     }
   }

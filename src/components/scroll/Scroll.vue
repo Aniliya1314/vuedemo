@@ -45,8 +45,11 @@
       },
       refresh(){
        this.scroll && this.scroll.refresh();
+      },
+      getscrollY(){
+        return  this.scroll.y;
       }
-    }
+    },
   }
 </script>
 

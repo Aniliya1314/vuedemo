@@ -3,7 +3,7 @@
     <nav-bar class="base">
       <div slot="center">购物街</div>
     </nav-bar>
-    <tab-control class="tab-control" :tabcontrol="['流行','新款','精选']" @itemClick="controlClick" v-show="isShowTabControl"/>
+    <tab-control  ref="tabControl1" class="tab-control" :tabcontrol="['流行','新款','精选']" @itemClick="controlClick" v-show="isShowTabControl"/>
     <scroll class="content"
             ref="scroll"
             :probe-type="3"
@@ -16,7 +16,7 @@
       <tab-control  class="tab-sticky"
                     :tabcontrol="['流行','新款','精选']"
                     @itemClick="controlClick"
-                    ref="tabControl"/>
+                    ref="tabControl2"/>
       <goods-list :goodslist="showList"/>
     </scroll>
 <!--    自定义组件并没有@click方法-->
@@ -44,6 +44,7 @@
         isShow:false,
         isShowTabControl:false,
         tabOffsetTop:0,
+        saveScrollY:0,
         swiperItem:[
           {
             nama:'item1',
@@ -760,6 +761,8 @@
             this.typeItem = 'sell';
             break;
         }
+        this.$refs.tabControl1.$el.currentIndex = index;
+        this.$refs.tabControl2.$el.currentIndex = index;
         // console.log(index)
       },
       backTop(){
@@ -779,7 +782,7 @@
         // console.log(this.$refs.tabControl.$el.offsetTop);
       },
       commendLoad(){
-        this.tabOffsetTop = this.$refs.tabControl.$el.offsetTop;
+        this.tabOffsetTop = this.$refs.tabControl2.$el.offsetTop;
         // console.log(this.tabOffsetTop)
       },
       //防抖操作
@@ -812,6 +815,13 @@
         refresh();
       })
     },
+    activated() {
+      this.$refs.scroll.scrollTo(0,this.saveScrollY,0);
+      this.$refs.scroll.refresh()
+    },
+    deactivated() {
+      this.saveScrollY = this.$refs.scroll.getscrollY();
+    }
   }
 </script>
 

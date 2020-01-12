@@ -1,0 +1,28 @@
+<template>
+    <div>
+      <detail-nav-bar />
+    </div>
+</template>
+
+<script>
+  import DetailNavBar from "./detailnavbar/DetailNavBar";
+  export default {
+    name: "Detail",
+    components:{DetailNavBar},
+    data(){
+      return{
+        iid:null
+      }
+    },
+    created() {
+     this.iid =  this.$route.params.iid;
+    },
+    mounted() {
+      // this.iid =  this.$route.params.iid;
+    }
+  }
+</script>
+
+<style scoped>
+
+</style>

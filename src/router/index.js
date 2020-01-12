@@ -11,6 +11,10 @@ const routes =[
     component:()=>import('../views/index/Index')
   },
   {
+    path:'/detail/:iid',
+    component:()=>import('../views/detail/Detail')
+  },
+  {
     path:'/categroy',
     component:()=>import('../views/categroy/Categroy')
   },

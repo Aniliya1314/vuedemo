@@ -20,6 +20,7 @@
     height: 40px;
     align-items: center;
     text-align: center;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.2);
   }
   .left,.right{
     width: 10%;
