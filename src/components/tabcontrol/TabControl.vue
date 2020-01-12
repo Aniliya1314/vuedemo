@@ -15,11 +15,11 @@
           default:function () {
             return []
           }
-        }
+        },
       },
       data(){
         return{
-          currentIndex:0
+          currentIndex:0,
         }
       },
       methods:{
@@ -27,6 +27,8 @@
           this.currentIndex = index;
           this.$emit('itemClick',index);
         }
+      },
+      mounted() {
       }
     }
 </script>

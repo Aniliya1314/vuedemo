@@ -1,14 +1,19 @@
 <template>
     <div class="commend-container">
       <a href="#">
-        <img src="../../../assets/image/home/commend.jpeg" alt="" class="commend-img">
+        <img src="../../../assets/image/home/commend.jpeg" alt="" class="commend-img" @load="commendImgLoad">
       </a>
     </div>
 </template>
 
 <script>
     export default {
-        name: "HomeCommend"
+        name: "HomeCommend",
+        methods:{
+            commendImgLoad(){
+                this.$emit('commendLoad')
+            }
+        }
     }
 </script>
 

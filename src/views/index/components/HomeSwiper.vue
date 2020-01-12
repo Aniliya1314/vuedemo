@@ -2,7 +2,7 @@
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide" v-for="item in swiperItem">
-        <img :src="item.imgUrl" alt="" class="swiperimg">
+        <img :src="item.imgUrl" alt="" class="swiperimg" @load="swiperImgOnload">
       </div>
     </div>
     <div class="swiper-pagination"></div>
@@ -18,6 +18,19 @@
         type:Array,
         default:function () {
           return []
+        }
+      }
+    },
+    data(){
+      return{
+        isLoad:true
+      }
+    },
+    methods:{
+      swiperImgOnload(){
+        if(this.isLoad){
+          this.$emit('swiperImgload')
+          this.isLoad = false
         }
       }
     },

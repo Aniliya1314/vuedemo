@@ -15,10 +15,6 @@
 <style scoped>
 
   .navbar{
-    position: fixed;
-    top:0;
-    right: 0;
-    left: 0;
     display: flex;
     z-index: 2;
     height: 40px;

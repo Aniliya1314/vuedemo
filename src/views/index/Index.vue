@@ -3,16 +3,20 @@
     <nav-bar class="base">
       <div slot="center">购物街</div>
     </nav-bar>
+    <tab-control class="tab-control" :tabcontrol="['流行','新款','精选']" @itemClick="controlClick" v-show="isShowTabControl"/>
     <scroll class="content"
             ref="scroll"
             :probe-type="3"
             @scroll="scrollContent"
             :pull-up-load="true"
             @pullingUp="finishPulling">
-      <home-swiper :swiper-item="swiperItem" />
+      <home-swiper :swiper-item="swiperItem" @swiperImgload="swiperImgload"/>
       <home-recommend-view :recommend="recommend"/>
-      <home-commend/>
-      <tab-control  class="tab-sticky" :tabcontrol="['流行','新款','精选']" @itemClick="controlClick"/>
+      <home-commend @commendLoad="commendLoad"/>
+      <tab-control  class="tab-sticky"
+                    :tabcontrol="['流行','新款','精选']"
+                    @itemClick="controlClick"
+                    ref="tabControl"/>
       <goods-list :goodslist="showList"/>
     </scroll>
 <!--    自定义组件并没有@click方法-->
@@ -36,6 +40,8 @@
       return{
         typeItem:'pop',
         isShow:false,
+        isShowTabControl:false,
+        tabOffsetTop:0,
         swiperItem:[
           {
             nama:'item1',
@@ -761,10 +767,18 @@
       scrollContent(position){
         // console.log(position)
         this.isShow = (-position.y) > 500;
+        this.isShowTabControl = (-position.y) > this.tabOffsetTop;
       },
       finishPulling(){
         console.log('上拉加载更多');
         this.$refs.scroll.pullingUp();
+      },
+      swiperImgload(){
+        // console.log(this.$refs.tabControl.$el.offsetTop);
+      },
+      commendLoad(){
+        this.tabOffsetTop = this.$refs.tabControl.$el.offsetTop;
+        // console.log(this.tabOffsetTop)
       },
       //防抖操作
       debounce(func,delay){
@@ -810,9 +824,11 @@
     box-shadow: 0px 0px 2px rgba(0,0,0,0.1);
   }
   .tab-sticky{
-    position: sticky;
-    top: 4.5%;
-    /*box-shadow: 0px 2px 1px rgba(0,0,0,0.1);*/
+
+  }
+  .tab-control{
+    position: relative;
+    z-index: 10;
   }
   .content{
     overflow: hidden;
