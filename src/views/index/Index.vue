@@ -21,6 +21,8 @@
     </scroll>
 <!--    自定义组件并没有@click方法-->
     <back-top  @click.native="backTop" v-show="isShow"/>
+
+
   </div>
 </template>
 <script>
