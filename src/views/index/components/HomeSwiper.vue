@@ -50,12 +50,9 @@
 </script>
 
 <style scoped>
+  @import url('../../../assets/css/common.css');
   .swiperimg{
     width: 100%;
     height: 100%;
-  }
-  .swiper-container{
-    /*padding-top: 10%;*/
-    --swiper-pagination-color: deeppink;/* 改变分页器颜色 */
   }
 </style>

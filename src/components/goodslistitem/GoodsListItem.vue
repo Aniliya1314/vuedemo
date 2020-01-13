@@ -30,7 +30,13 @@
         this.$bus.$emit('imageLoad');
       },
       itemClick(){
-        this.$router.push('/detail/'+this.goodsItem.id);
+        this.$router.push({
+          path:'/detail',
+          query:{
+            iid:this.goodsItem.id,
+            topImage:this.goodsItem.topImage
+          }
+        });
       }
     }
   }

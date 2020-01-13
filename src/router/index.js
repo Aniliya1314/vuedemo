@@ -11,7 +11,7 @@ const routes =[
     component:()=>import('../views/index/Index')
   },
   {
-    path:'/detail/:iid',
+    path:'/detail',
     component:()=>import('../views/detail/Detail')
   },
   {
