@@ -40,7 +40,6 @@
   }
 </script>
 <style scoped>
-  @import url('../../../../assets/css/common.css');
   .swiper-item{
     height: 300px;
     overflow: hidden;

@@ -13,7 +13,7 @@
 <style scoped>
   #tabbar{
     width: 100%;
-    z-index: 100;
+    z-index: 1;
     padding: 5px 0px;
     background: #f2f2f2;
     position: fixed;

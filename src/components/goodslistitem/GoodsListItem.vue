@@ -18,6 +18,12 @@
         default:function () {
           return {}
         }
+      },
+    },
+    data(){
+      return{
+        itemType:'pop',
+        isNull:false
       }
     },
     filters:{
@@ -30,13 +36,15 @@
         this.$bus.$emit('imageLoad');
       },
       itemClick(){
-        this.$router.push({
-          path:'/detail',
-          query:{
-            iid:this.goodsItem.id,
-            topImage:this.goodsItem.topImage
-          }
+        this.$router.push('/detail/'+this.itemType+'/'+this.goodsItem.id);
+      }
+    },
+    created() {
+      if(!this.isNull){
+        this.$bus.$on('getTypeItem',(type)=>{
+          this.itemType = type;
         });
+        this.isNull = true
       }
     }
   }

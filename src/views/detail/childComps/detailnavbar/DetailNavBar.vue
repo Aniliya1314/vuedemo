@@ -1,5 +1,5 @@
 <template>
-    <nav-bar>
+    <nav-bar class="navbar">
       <div slot="left" @click="back">
         <img src="@/assets/image/common/back.svg" alt="" class="back">
       </div>
@@ -30,6 +30,7 @@
         this.currentIndex = index;
       },
       back(){
+        this.$emit('itemType',this.$route.params.itemType);
         this.$router.back();
       }
     }
@@ -37,8 +38,14 @@
 </script>
 
 <style scoped>
+  .navbar{
+    position: relative;
+    z-index: 3;
+    background: #fff;
+  }
   .detail-nav-bar{
     display: flex;
+
   }
   .detail-nav-bar-item{
     flex: 1;

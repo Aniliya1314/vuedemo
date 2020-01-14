@@ -16,7 +16,6 @@
 
   .navbar{
     display: flex;
-    z-index: 2;
     height: 40px;
     align-items: center;
     text-align: center;

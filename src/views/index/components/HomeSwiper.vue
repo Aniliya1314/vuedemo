@@ -50,7 +50,6 @@
 </script>
 
 <style scoped>
-  @import url('../../../assets/css/common.css');
   .swiperimg{
     width: 100%;
     height: 100%;
