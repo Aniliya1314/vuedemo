@@ -4,6 +4,7 @@
       <scroll class="content">
         <detail-swiper :top-image="topImage"/>
         <detail-base-info :data="detailData"/>
+        <detail-shop-info :shop-info="shopInfo"/>
       </scroll>
     </div>
 </template>
@@ -12,12 +13,13 @@
   import DetailNavBar from "./childComps/detailnavbar/DetailNavBar";
   import DetailSwiper from "./childComps/detailswiper/DetailSwiper";
   import DetailBaseInfo from "./childComps/detailbaseinfo/DetailBaseInfo";
+  import DetailShopInfo from "./childComps/detailshopinfo/DetailShopInfo";
   import Scroll from "../../components/scroll/Scroll";
   import {allData} from "../../network/data";
   import {Goods} from "../../network/detail";
   export default {
     name: "Detail",
-    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo},
+    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo},
     data(){
       return{
         iid:null,
