@@ -5,6 +5,7 @@
         <detail-swiper :top-image="topImage"/>
         <detail-base-info :data="detailData"/>
         <detail-shop-info :shop-info="shopInfo"/>
+        <detail-info :detail-info="detailInfo"/>
       </scroll>
     </div>
 </template>
@@ -14,12 +15,13 @@
   import DetailSwiper from "./childComps/detailswiper/DetailSwiper";
   import DetailBaseInfo from "./childComps/detailbaseinfo/DetailBaseInfo";
   import DetailShopInfo from "./childComps/detailshopinfo/DetailShopInfo";
+  import DetailInfo from "./childComps/detailinfo/DetailInfo";
   import Scroll from "../../components/scroll/Scroll";
   import {allData} from "../../network/data";
   import {Goods} from "../../network/detail";
   export default {
     name: "Detail",
-    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo},
+    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo,DetailInfo},
     data(){
       return{
         iid:null,
@@ -27,18 +29,24 @@
         itemType:'',
         detailData:{},
         shopInfo: {},
+        detailInfo:{},
       }
     },
     methods:{
       getData(iid,itemType){
-        const data = allData.goods[itemType].list[iid];
+        const data = allData.goods[itemType].list[iid-1];
+        // console.log(data)
         //取得轮播图
         this.topImage = data.topImage;
         //构建商品对象
         this.detailData = new Goods(data);
+        // console.log(this.detailData)
         //获取店铺对象
         this.shopInfo = data.shopInfo;
         // console.log(this.shopInfo);
+        //获取详情信息
+        this.detailInfo = data.detailInfo;
+        console.log(this.detailInfo);
       },
     },
     created() {
