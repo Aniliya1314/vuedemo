@@ -28,6 +28,7 @@
     methods:{
       itemClick(index){
         this.currentIndex = index;
+        this.$emit('titleClick',index);
       },
       back(){
         this.$emit('itemType',this.$route.params.itemType);

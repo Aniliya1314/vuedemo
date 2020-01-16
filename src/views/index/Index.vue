@@ -34,6 +34,7 @@
   import BackTop from "../../components/backtop/BackTop";
   import {requestAllData,getHomeGoods} from "../../network/home";
   import {allData} from "../../network/data";
+  import {itemListenerMixin} from "../../assets/js/mixins";
 
   export default {
     name: "Index",
@@ -89,6 +90,8 @@
         goods:allData.goods
       }
     },
+    // 混入
+    mixins:[itemListenerMixin],
     methods:{
       requestAllData(){
         requestAllData().then(res=>{
@@ -142,16 +145,6 @@
         // console.log(this.tabOffsetTop)
       },
       //防抖操作
-      debounce(func,delay){
-        let timer = null;
-        return function(...args){
-          if(timer)
-            clearTimeout(timer);
-          timer = setTimeout(()=>{
-            func.apply(this,args);
-          },delay)
-        }
-      }
     },
     computed:{
       showList() {
@@ -166,10 +159,7 @@
       // this.getHomeGoods('sell');
     },
     mounted() {
-      const refresh = this.debounce(this.$refs.scroll.refresh,200);
-      this.$bus.$on('imageLoad',()=>{
-        refresh();
-      });
+
     },
     activated() {
       this.$refs.scroll.scrollTo(0,this.saveScrollY,0);
@@ -177,8 +167,7 @@
     },
     deactivated() {
       this.saveScrollY = this.$refs.scroll.getscrollY();
-
-
+      // console.log( this.saveScrollY);
     },
   }
 </script>

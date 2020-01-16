@@ -60,7 +60,128 @@ export const allData ={
                 style:'韩系',
               }
             }
-          }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
@@ -119,7 +240,128 @@ export const allData ={
                 style:'英伦',
               }
             }
-          }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
@@ -183,7 +425,128 @@ export const allData ={
                 style:'韩系',
               }
             }
-          }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
@@ -253,7 +616,128 @@ export const allData ={
                 style:'韩系',
               },
             }
-          }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'5',
@@ -315,7 +799,128 @@ export const allData ={
                 combinationForm:'oversize',
               }
             }
-          }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
@@ -343,6 +948,371 @@ export const allData ={
             score:[4.49,5,4.82],
           },
           detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'1',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:60.90,
+          coll:3,
+          topImage: [
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:87,
+          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量27人','收藏3人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'2',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:126.00,
+          coll:5,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:180,
+          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量47人','收藏5人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
             desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
             showImageUrl:[
               'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
@@ -368,98 +1338,517 @@ export const allData ={
                 xxxl_size:['XXXL','41'],
                 xxxxl_size:['4XL','42'],
               },
-              advance:{
+              advance: {
                 color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
                 allsize:'S,XL,4XL,L,M,XXL,XXXL',
                 style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'3',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:89.00,
+          coll:28,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:127.15,
+          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量180人','收藏28人'],
+          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name:'千千衣莎',
+            cCells:'63819',
+            cGoods:1890,
+            score:[4.8,5,4.8],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
               },
             }
-          }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
-          id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:60.90,
-          coll:23,
-          topImage: [
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:87,
-          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量27人','收藏3人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:126.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:180,
-          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量47人','收藏5人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:89.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:127.15,
-          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量180人','收藏28人'],
-          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
-            name:'千千衣莎',
-            cCells:'63819',
-            cGoods:1890,
-            score:[4.8,5,4.8],
-          }
-        },
-        {
-          id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -478,37 +1867,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -527,14 +2050,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -553,14 +2235,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -579,14 +2415,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -605,14 +2595,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -631,37 +2971,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -680,14 +3154,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -706,14 +3339,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -732,14 +3519,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -758,14 +3699,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -784,37 +4075,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -833,14 +4258,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -859,14 +4443,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -885,14 +4623,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -911,14 +4803,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -937,37 +5179,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -986,146 +5362,179 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
       ]
     },
+
     'new':{
       page:0,
       list:[
         {
           id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
-        },
-        {
-          id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:155.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/181109_4307a95li7el9c56a7jbeeja814c5_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/181109_77ea2c2b336ljj0e997jj80dkid3i_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:221.43,
-          desc:'羽绒棉服女新款冬季中长款韩版宽松加厚大毛领茧型蝙蝠袖外套潮',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量37人','收藏8人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160302/25zhml_ifrtanjxgfrwcyzqg4zdambqhayde_230x230.jpg_200x9999.v1c7E.70.webp',
-            name:'优米女孩',
-            cCells:'42910',
-            cGoods:2167,
-            score:[4.49,5,4.82],
-          }
-        },
-        {
-          id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:60.90,
-          coll:23,
-          topImage: [
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:87,
-          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量27人','收藏3人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:126.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:180,
-          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量47人','收藏5人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:89.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:127.15,
-          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量180人','收藏28人'],
-          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
-            name:'千千衣莎',
-            cCells:'63819',
-            cGoods:1890,
-            score:[4.8,5,4.8],
-          }
-        },
-        {
-          id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -1144,53 +5553,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1209,14 +5736,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -1235,14 +5921,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1261,14 +6101,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1287,14 +6281,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -1313,37 +6657,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1362,14 +6840,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -1388,14 +7025,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1414,14 +7205,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1440,14 +7385,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -1466,37 +7761,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1515,14 +7944,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -1541,14 +8129,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1567,14 +8309,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1593,14 +8489,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -1619,37 +8865,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1668,14 +9048,173 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -1694,14 +9233,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1720,14 +9413,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:89.00,
-          coll:23,
+          coll:28,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1746,14 +9593,364 @@ export const allData ={
             cCells:'63819',
             cGoods:1890,
             score:[4.8,5,4.8],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -1772,71 +9969,1473 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'6',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:155.00,
+          coll:8,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181109_4307a95li7el9c56a7jbeeja814c5_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/181109_77ea2c2b336ljj0e997jj80dkid3i_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:221.43,
+          desc:'羽绒棉服女新款冬季中长款韩版宽松加厚大毛领茧型蝙蝠袖外套潮',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量37人','收藏8人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/p1/160302/25zhml_ifrtanjxgfrwcyzqg4zdambqhayde_230x230.jpg_200x9999.v1c7E.70.webp',
+            name:'优米女孩',
+            cCells:'42910',
+            cGoods:2167,
+            score:[4.49,5,4.82],
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'1',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:60.90,
+          coll:3,
+          topImage: [
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:87,
+          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量27人','收藏3人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'2',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:126.00,
+          coll:5,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:180,
+          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量47人','收藏5人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'3',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:89.00,
+          coll:28,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:127.15,
+          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量180人','收藏28人'],
+          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name:'千千衣莎',
+            cCells:'63819',
+            cGoods:1890,
+            score:[4.8,5,4.8],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','腰围','胸围','袖长'],
+                average_size:['均码','105','49','70','82','66'],
+              },
+              advance:{
+                pattern:'纯色',
+                skirtStyle:'百褶裙',
+                color:'黑色,粉红色,南瓜色,灰色',
+                waistType:'高腰',
+                allsize:'均码',
+                type:'收腰',
+                season:'秋季',
+                materialQua:'其他',
+                combinationForm:'单件',
+                neckline:'圆领',
+                skirtLen:'中长裙（106-125cm）',
+                sleeveLen:'长袖',
+                touch:'甜美',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:39.90,
+          coll:17,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:88,
+          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc:'4.5折',
+          discountBgColor:'deeppink',
+          columns:['销量72人','收藏17人'],
+          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name:'Miss公主美衣馆',
+            cCells:'26741',
+            cGoods:182,
+            score:[4.34,4.18,4.12],
+          },
+          detailInfo:{
+            desc:'【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长','腰围'],
+                m_size:['M','61','66','116','52','-'],
+                l_size:['L','62','67','120','53','-'],
+                xl_size:['XL','63','68','124','54','-'],
+                xxl_size:['XXL','64','69','128','55','-'],
+              },
+              advance:{
+                pattern:'字母/文字/数字',
+                thinAndThick:'加厚',
+                color:'850加绒款白色,850加绒款黑色',
+                sleeveType:'常规袖',
+                lapel:'套头',
+                allsize:'XL,2XL,L,M',
+                combinationForm:'常规款（51-65cm）',
+                type:'宽松',
+                season:'秋冬',
+                materialQua:'其他',
+                neckline:'连帽',
+                element:'Oversized',
+                sleeveLen:'长袖',
+                touch:'运动休闲',
+                style:'韩系',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'张温暖iiiiiiiiiiiii',
+                avatar:'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
       ]
     },
-    'sell':{
-      page:0,
-      list:[
+    'sell': {
+      page: 0,
+      list: [
         {
-          id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:89.00,
-          coll:23,
-          topImage:[
+          id: '3',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 89.00,
+          coll: 28,
+          topImage: [
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
           ],
-          oldPrice:127.15,
-          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量180人','收藏28人'],
-          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
-            name:'千千衣莎',
-            cCells:'63819',
-            cGoods:1890,
-            score:[4.8,5,4.8],
-          }
+          oldPrice: 127.15,
+          desc: '秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc: '7折',
+          discountBgColor: 'deeppink',
+          columns: ['销量180人', '收藏28人'],
+          services: ['72小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name: '千千衣莎',
+            cCells: '63819',
+            cGoods: 1890,
+            score: [4.8, 5, 4.8],
+          },
+          detailInfo: {
+            desc: '赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl: [
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '裙长', '肩宽', '腰围', '胸围', '袖长'],
+                average_size: ['均码', '105', '49', '70', '82', '66'],
+              },
+              advance: {
+                pattern: '纯色',
+                skirtStyle: '百褶裙',
+                color: '黑色,粉红色,南瓜色,灰色',
+                waistType: '高腰',
+                allsize: '均码',
+                type: '收腰',
+                season: '秋季',
+                materialQua: '其他',
+                combinationForm: '单件',
+                neckline: '圆领',
+                skirtLen: '中长裙（106-125cm）',
+                sleeveLen: '长袖',
+                touch: '甜美',
+                style: '韩系',
+              }
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
         },
         {
-          id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:146.40,
-          coll:23,
-          topImage:[
-            'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/181018_8acj3861e2bjkijff4ale7f98c60f_640x956.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/181018_4a096h09bagkb436i4840j4bk1ilb_640x580.jpg_640x960.v1cAC.70.webp',
+          id: '4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 39.90,
+          coll: 17,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
           ],
-          oldPrice:240,
-          desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
-          discountDesc:'6折',
-          discountBgColor:'deeppink',
-          columns:['销量37人','收藏8人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/171124_71k6c9bjg7ll11k8ga287c4hlb0i3_246x246.jpg_200x9999.v1c7E.70.webp',
-            name:'小芊家',
-            cCells:'16387',
-            cGoods:210,
-            score:[4.73,4.32,4.66],
-          }
+          oldPrice: 88,
+          desc: '2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc: '4.5折',
+          discountBgColor: 'deeppink',
+          columns: ['销量72人', '收藏17人'],
+          services: ['24小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name: 'Miss公主美衣馆',
+            cCells: '26741',
+            cGoods: 182,
+            score: [4.34, 4.18, 4.12],
+          },
+          detailInfo: {
+            desc: '【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl: [
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '衣长（前）', '肩宽', '胸围', '袖长', '腰围'],
+                m_size: ['M', '61', '66', '116', '52', '-'],
+                l_size: ['L', '62', '67', '120', '53', '-'],
+                xl_size: ['XL', '63', '68', '124', '54', '-'],
+                xxl_size: ['XXL', '64', '69', '128', '55', '-'],
+              },
+              advance: {
+                pattern: '字母/文字/数字',
+                thinAndThick: '加厚',
+                color: '850加绒款白色,850加绒款黑色',
+                sleeveType: '常规袖',
+                lapel: '套头',
+                allsize: 'XL,2XL,L,M',
+                combinationForm: '常规款（51-65cm）',
+                type: '宽松',
+                season: '秋冬',
+                materialQua: '其他',
+                neckline: '连帽',
+                element: 'Oversized',
+                sleeveLen: '长袖',
+                touch: '运动休闲',
+                style: '韩系',
+              },
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
         },
         {
           id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:60.90,
-          coll:23,
+          coll:3,
           topImage: [
             'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
@@ -1855,14 +11454,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:126.00,
-          coll:23,
+          coll:5,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
@@ -1881,89 +11634,168 @@ export const allData ={
             cCells:'21794',
             cGoods:173,
             score:[4.64,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
-        },
-        {
-          id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:155.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/181109_4307a95li7el9c56a7jbeeja814c5_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/181109_77ea2c2b336ljj0e997jj80dkid3i_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:221.43,
-          desc:'羽绒棉服女新款冬季中长款韩版宽松加厚大毛领茧型蝙蝠袖外套潮',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量37人','收藏8人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160302/25zhml_ifrtanjxgfrwcyzqg4zdambqhayde_230x230.jpg_200x9999.v1c7E.70.webp',
-            name:'优米女孩',
-            cCells:'42910',
-            cGoods:2167,
-            score:[4.49,5,4.82],
-          }
-        },
-        {
-          id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:89.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:127.15,
-          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量180人','收藏28人'],
-          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
-            name:'千千衣莎',
-            cCells:'63819',
-            cGoods:1890,
-            score:[4.8,5,4.8],
-          }
-        },
-        {
-          id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -1982,89 +11814,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:60.90,
-          coll:23,
-          topImage: [
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:87,
-          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量27人','收藏3人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:126.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:180,
-          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量47人','收藏5人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -2083,40 +11997,909 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
-          id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:89.00,
-          coll:23,
-          topImage:[
+          id: '3',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 89.00,
+          coll: 28,
+          topImage: [
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
           ],
-          oldPrice:127.15,
-          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量180人','收藏28人'],
-          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
-            name:'千千衣莎',
-            cCells:'63819',
-            cGoods:1890,
-            score:[4.8,5,4.8],
-          }
+          oldPrice: 127.15,
+          desc: '秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc: '7折',
+          discountBgColor: 'deeppink',
+          columns: ['销量180人', '收藏28人'],
+          services: ['72小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name: '千千衣莎',
+            cCells: '63819',
+            cGoods: 1890,
+            score: [4.8, 5, 4.8],
+          },
+          detailInfo: {
+            desc: '赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl: [
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '裙长', '肩宽', '腰围', '胸围', '袖长'],
+                average_size: ['均码', '105', '49', '70', '82', '66'],
+              },
+              advance: {
+                pattern: '纯色',
+                skirtStyle: '百褶裙',
+                color: '黑色,粉红色,南瓜色,灰色',
+                waistType: '高腰',
+                allsize: '均码',
+                type: '收腰',
+                season: '秋季',
+                materialQua: '其他',
+                combinationForm: '单件',
+                neckline: '圆领',
+                skirtLen: '中长裙（106-125cm）',
+                sleeveLen: '长袖',
+                touch: '甜美',
+                style: '韩系',
+              }
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
         },
         {
-          id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          id: '4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 39.90,
+          coll: 17,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice: 88,
+          desc: '2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc: '4.5折',
+          discountBgColor: 'deeppink',
+          columns: ['销量72人', '收藏17人'],
+          services: ['24小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name: 'Miss公主美衣馆',
+            cCells: '26741',
+            cGoods: 182,
+            score: [4.34, 4.18, 4.12],
+          },
+          detailInfo: {
+            desc: '【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl: [
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '衣长（前）', '肩宽', '胸围', '袖长', '腰围'],
+                m_size: ['M', '61', '66', '116', '52', '-'],
+                l_size: ['L', '62', '67', '120', '53', '-'],
+                xl_size: ['XL', '63', '68', '124', '54', '-'],
+                xxl_size: ['XXL', '64', '69', '128', '55', '-'],
+              },
+              advance: {
+                pattern: '字母/文字/数字',
+                thinAndThick: '加厚',
+                color: '850加绒款白色,850加绒款黑色',
+                sleeveType: '常规袖',
+                lapel: '套头',
+                allsize: 'XL,2XL,L,M',
+                combinationForm: '常规款（51-65cm）',
+                type: '宽松',
+                season: '秋冬',
+                materialQua: '其他',
+                neckline: '连帽',
+                element: 'Oversized',
+                sleeveLen: '长袖',
+                touch: '运动休闲',
+                style: '韩系',
+              },
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
+        },
+        {
+          id:'1',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:60.90,
+          coll:3,
+          topImage: [
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:87,
+          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量27人','收藏3人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'2',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:126.00,
+          coll:5,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:180,
+          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量47人','收藏5人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -2135,89 +12918,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:60.90,
-          coll:23,
-          topImage: [
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:87,
-          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量27人','收藏3人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:126.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:180,
-          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量47人','收藏5人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -2236,40 +13101,909 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
-          id:'3',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191123_7b195hbdd0498bbbh63id021bc8i5_510x850.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:89.00,
-          coll:23,
-          topImage:[
+          id: '3',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 89.00,
+          coll: 28,
+          topImage: [
             'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
           ],
-          oldPrice:127.15,
-          desc:'秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量180人','收藏28人'],
-          services:['72小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
-            name:'千千衣莎',
-            cCells:'63819',
-            cGoods:1890,
-            score:[4.8,5,4.8],
-          }
+          oldPrice: 127.15,
+          desc: '秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc: '7折',
+          discountBgColor: 'deeppink',
+          columns: ['销量180人', '收藏28人'],
+          services: ['72小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name: '千千衣莎',
+            cCells: '63819',
+            cGoods: 1890,
+            score: [4.8, 5, 4.8],
+          },
+          detailInfo: {
+            desc: '赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl: [
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '裙长', '肩宽', '腰围', '胸围', '袖长'],
+                average_size: ['均码', '105', '49', '70', '82', '66'],
+              },
+              advance: {
+                pattern: '纯色',
+                skirtStyle: '百褶裙',
+                color: '黑色,粉红色,南瓜色,灰色',
+                waistType: '高腰',
+                allsize: '均码',
+                type: '收腰',
+                season: '秋季',
+                materialQua: '其他',
+                combinationForm: '单件',
+                neckline: '圆领',
+                skirtLen: '中长裙（106-125cm）',
+                sleeveLen: '长袖',
+                touch: '甜美',
+                style: '韩系',
+              }
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
         },
         {
-          id:'4',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191025_2fb8kjl13ji190f3l1hjai6300e2i_808x1349.jpg_600x9999.v1c7E.70.webp',
+          id: '4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 39.90,
+          coll: 17,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice: 88,
+          desc: '2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc: '4.5折',
+          discountBgColor: 'deeppink',
+          columns: ['销量72人', '收藏17人'],
+          services: ['24小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name: 'Miss公主美衣馆',
+            cCells: '26741',
+            cGoods: 182,
+            score: [4.34, 4.18, 4.12],
+          },
+          detailInfo: {
+            desc: '【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl: [
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '衣长（前）', '肩宽', '胸围', '袖长', '腰围'],
+                m_size: ['M', '61', '66', '116', '52', '-'],
+                l_size: ['L', '62', '67', '120', '53', '-'],
+                xl_size: ['XL', '63', '68', '124', '54', '-'],
+                xxl_size: ['XXL', '64', '69', '128', '55', '-'],
+              },
+              advance: {
+                pattern: '字母/文字/数字',
+                thinAndThick: '加厚',
+                color: '850加绒款白色,850加绒款黑色',
+                sleeveType: '常规袖',
+                lapel: '套头',
+                allsize: 'XL,2XL,L,M',
+                combinationForm: '常规款（51-65cm）',
+                type: '宽松',
+                season: '秋冬',
+                materialQua: '其他',
+                neckline: '连帽',
+                element: 'Oversized',
+                sleeveLen: '长袖',
+                touch: '运动休闲',
+                style: '韩系',
+              },
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
+        },
+        {
+          id:'1',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:60.90,
+          coll:3,
+          topImage: [
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:87,
+          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量27人','收藏3人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'2',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:126.00,
+          coll:5,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:180,
+          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量47人','收藏5人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:146.40,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
@@ -2288,89 +14022,171 @@ export const allData ={
             cCells:'16387',
             cGoods:210,
             score:[4.73,4.32,4.66],
-          }
-        },
-        {
-          id:'1',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191126_25fd5b553hk241bifdei08hlab6j9_656x1095.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:60.90,
-          coll:23,
-          topImage: [
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:87,
-          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量27人','收藏3人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'2',
-          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191210_6bkb76ci42eg9llb8gj7h51c7d68b_466x778.jpg_999x999.v1c0.81.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:126.00,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
-            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:180,
-          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
-          discountDesc:'7折',
-          discountBgColor:'deeppink',
-          columns:['销量47人','收藏5人'],
-          services:['72小时内发货','免运费','全国联保','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
-            name:'岚心云职业装',
-            cCells:'21794',
-            cGoods:173,
-            score:[4.64,5,4.82],
-          }
-        },
-        {
-          id:'5',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191110_3b4k5161akcci8l9k55143ig34bi0_899x1498.jpg_600x9999.v1c7E.70.webp',
-          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
-          price:39.90,
-          coll:23,
-          topImage:[
-            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
-          ],
-          oldPrice:88,
-          desc:'2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
-          discountDesc:'4.5折',
-          discountBgColor:'deeppink',
-          columns:['销量72人','收藏17人'],
-          services:['24小时内发货','免运费','7天无理由退货','延误必赔'],
-          shopInfo:{
-            shopLogo:'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
-            name:'Miss公主美衣馆',
-            cCells:'26741',
-            cGoods:182,
-            score:[4.34,4.18,4.12],
-          }
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
         {
           id:'6',
-          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191101_5iihdcca8485d4cj2c03a761cia0g_810x1353.jpg_600x9999.v1c7E.70.webp',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
           text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
           price:155.00,
-          coll:23,
+          coll:8,
           topImage:[
             'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
             'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
@@ -2389,7 +14205,2374 @@ export const allData ={
             cCells:'42910',
             cGoods:2167,
             score:[4.49,5,4.82],
-          }
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id: '3',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 89.00,
+          coll: 28,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice: 127.15,
+          desc: '秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc: '7折',
+          discountBgColor: 'deeppink',
+          columns: ['销量180人', '收藏28人'],
+          services: ['72小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name: '千千衣莎',
+            cCells: '63819',
+            cGoods: 1890,
+            score: [4.8, 5, 4.8],
+          },
+          detailInfo: {
+            desc: '赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl: [
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '裙长', '肩宽', '腰围', '胸围', '袖长'],
+                average_size: ['均码', '105', '49', '70', '82', '66'],
+              },
+              advance: {
+                pattern: '纯色',
+                skirtStyle: '百褶裙',
+                color: '黑色,粉红色,南瓜色,灰色',
+                waistType: '高腰',
+                allsize: '均码',
+                type: '收腰',
+                season: '秋季',
+                materialQua: '其他',
+                combinationForm: '单件',
+                neckline: '圆领',
+                skirtLen: '中长裙（106-125cm）',
+                sleeveLen: '长袖',
+                touch: '甜美',
+                style: '韩系',
+              }
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
+        },
+        {
+          id: '4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 39.90,
+          coll: 17,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice: 88,
+          desc: '2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc: '4.5折',
+          discountBgColor: 'deeppink',
+          columns: ['销量72人', '收藏17人'],
+          services: ['24小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name: 'Miss公主美衣馆',
+            cCells: '26741',
+            cGoods: 182,
+            score: [4.34, 4.18, 4.12],
+          },
+          detailInfo: {
+            desc: '【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl: [
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '衣长（前）', '肩宽', '胸围', '袖长', '腰围'],
+                m_size: ['M', '61', '66', '116', '52', '-'],
+                l_size: ['L', '62', '67', '120', '53', '-'],
+                xl_size: ['XL', '63', '68', '124', '54', '-'],
+                xxl_size: ['XXL', '64', '69', '128', '55', '-'],
+              },
+              advance: {
+                pattern: '字母/文字/数字',
+                thinAndThick: '加厚',
+                color: '850加绒款白色,850加绒款黑色',
+                sleeveType: '常规袖',
+                lapel: '套头',
+                allsize: 'XL,2XL,L,M',
+                combinationForm: '常规款（51-65cm）',
+                type: '宽松',
+                season: '秋冬',
+                materialQua: '其他',
+                neckline: '连帽',
+                element: 'Oversized',
+                sleeveLen: '长袖',
+                touch: '运动休闲',
+                style: '韩系',
+              },
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
+        },
+        {
+          id:'1',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:60.90,
+          coll:3,
+          topImage: [
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:87,
+          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量27人','收藏3人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'2',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:126.00,
+          coll:5,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:180,
+          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量47人','收藏5人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:146.40,
+          coll:8,
+          topImage:[
+            'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181018_8acj3861e2bjkijff4ale7f98c60f_640x956.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181018_4a096h09bagkb436i4840j4bk1ilb_640x580.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:240,
+          desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+          discountDesc:'6折',
+          discountBgColor:'deeppink',
+          columns:['销量37人','收藏8人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/171124_71k6c9bjg7ll11k8ga287c4hlb0i3_246x246.jpg_200x9999.v1c7E.70.webp',
+            name:'小芊家',
+            cCells:'16387',
+            cGoods:210,
+            score:[4.73,4.32,4.66],
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'6',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:155.00,
+          coll:8,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181109_4307a95li7el9c56a7jbeeja814c5_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/181109_77ea2c2b336ljj0e997jj80dkid3i_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:221.43,
+          desc:'羽绒棉服女新款冬季中长款韩版宽松加厚大毛领茧型蝙蝠袖外套潮',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量37人','收藏8人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/p1/160302/25zhml_ifrtanjxgfrwcyzqg4zdambqhayde_230x230.jpg_200x9999.v1c7E.70.webp',
+            name:'优米女孩',
+            cCells:'42910',
+            cGoods:2167,
+            score:[4.49,5,4.82],
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id: '3',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 89.00,
+          coll: 28,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_8d517gec225b3al2a3kgggh0j9lad_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_0hb4d55kakdl9ei999eg606bcd3he_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180926_87bfk89d4abfaalgc4l093kg1b0el_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/180926_4jefljb9fch94g84hi465dg23gki2_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice: 127.15,
+          desc: '秋季韩版甜美修身气质高腰百褶针织连衣裙中长款显廋长袖打底裙子',
+          discountDesc: '7折',
+          discountBgColor: 'deeppink',
+          columns: ['销量180人', '收藏28人'],
+          services: ['72小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/p1/160205/1xebxb_ifrtaytggq3wknzygyzdambqhayde_200x200.jpg_100x100.webp',
+            name: '千千衣莎',
+            cCells: '63819',
+            cGoods: 1890,
+            score: [4.8, 5, 4.8],
+          },
+          detailInfo: {
+            desc: '赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl: [
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_52l9i75dfebcal767iekk72k40490_650x788.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_7k6faf775bii51720fhbj5chch4ec_650x857.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_5bbfi58i9ghckgbe6d03hb2gelgc2_650x731.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_2g8099kdfh8ikfa328ijhf283ae3a_650x754.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_0j4ie22k05g31k782iikh84aeakgf_650x767.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_341jf6b1k417gh4gj7hlhc6alh49c_650x796.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_67333b0e4bd3c5ab70fd3elbl0a36_650x780.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_6k87chf6g72i59cd19llfd3ijhk18_650x821.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180926_58kh57f3653a23ah31962lfkjb03h_650x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180926_54i1f5ikcde79ffli9cd4f5ilk7fa_650x640.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '裙长', '肩宽', '腰围', '胸围', '袖长'],
+                average_size: ['均码', '105', '49', '70', '82', '66'],
+              },
+              advance: {
+                pattern: '纯色',
+                skirtStyle: '百褶裙',
+                color: '黑色,粉红色,南瓜色,灰色',
+                waistType: '高腰',
+                allsize: '均码',
+                type: '收腰',
+                season: '秋季',
+                materialQua: '其他',
+                combinationForm: '单件',
+                neckline: '圆领',
+                skirtLen: '中长裙（106-125cm）',
+                sleeveLen: '长袖',
+                touch: '甜美',
+                style: '韩系',
+              }
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
+        },
+        {
+          id: '4',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200114_4l602f822f85c98igd4fh76aiigh8_750x1125.jpg_300x400.v1cAC.40.webp',
+          text: '#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price: 39.90,
+          coll: 17,
+          topImage: [
+            'https://s5.mogucdn.com/mlcdn/c45406/181002_4k3ekf3fj4bl62k87h0ik9c823h00_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice: 88,
+          desc: '2件79元秋冬季白色连帽卫衣女新款宽松韩版慵懒风加绒加厚长袖上衣学生超火原宿bf风冬装外套',
+          discountDesc: '4.5折',
+          discountBgColor: 'deeppink',
+          columns: ['销量72人', '收藏17人'],
+          services: ['24小时内发货', '免运费', '7天无理由退货', '延误必赔'],
+          shopInfo: {
+            shopLogo: 'https://s5.mogucdn.com/mlcdn/c45406/170713_108hjidihada60l3jb6k8fe32e6jf_300x300.png_200x9999.v1c7E.70.webp',
+            name: 'Miss公主美衣馆',
+            cCells: '26741',
+            cGoods: 182,
+            score: [4.34, 4.18, 4.12],
+          },
+          detailInfo: {
+            desc: '【2件79元，店内79元专区超多款可选哦！】\n' +
+              '2件79元，分别加入购物车，每次选择亲需要的颜色和尺码，然后选择好了进入购物车一起结算，系统会自动修改价格的。\n' +
+              '我们只卖漂亮衣服！收藏并下单赠送发圈小礼物和明信片。\n' +
+              '全场满1件-包邮，闪电发货-七天退货-赠运费险！---一个真诚的卖家！\n' +
+              '【小店的衣衣都是出厂价格，现在都是赚人气。等待是值得的，收藏就晚了！你敢买！我敢亏！】\n' +
+              '尺码建议：M【80-100斤】L【100-120斤】XL【120-135斤】XXL【135-160斤】',
+            showImageUrl: [
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_3611cj3d3d0b9g5960629c8ldc383_750x479.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181002_1c543e756ek00400hkeac3k97a151_640x550.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_12i98ia93ha6a9f96559jaj8de8ge_750x794.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6ihffl0ai8f74i9ji6bd5ki26giee_640x363.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_84kebgec47edd22bblac5jalbbd09_750x937.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2888j8a06g3ii1c4g86l7j603ak36_750x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_35hce2b2k1del0j12fl7cb3ag4g01_750x707.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_7de3c5kfhgkgje8a4j9bba2dbi46k_750x840.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2ajl5g19k24c8a0693c8lfdjalkhh_750x839.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams: {
+              basic: {
+                size: ['尺码', '衣长（前）', '肩宽', '胸围', '袖长', '腰围'],
+                m_size: ['M', '61', '66', '116', '52', '-'],
+                l_size: ['L', '62', '67', '120', '53', '-'],
+                xl_size: ['XL', '63', '68', '124', '54', '-'],
+                xxl_size: ['XXL', '64', '69', '128', '55', '-'],
+              },
+              advance: {
+                pattern: '字母/文字/数字',
+                thinAndThick: '加厚',
+                color: '850加绒款白色,850加绒款黑色',
+                sleeveType: '常规袖',
+                lapel: '套头',
+                allsize: 'XL,2XL,L,M',
+                combinationForm: '常规款（51-65cm）',
+                type: '宽松',
+                season: '秋冬',
+                materialQua: '其他',
+                neckline: '连帽',
+                element: 'Oversized',
+                sleeveLen: '长袖',
+                touch: '运动休闲',
+                style: '韩系',
+              },
+            }
+          },
+          rate: {
+            cRate: '125',
+            list: [
+              {
+                userName: '张温暖iiiiiiiiiiiii',
+                avatar: 'https://s11.mogucdn.com/b7/avatar/151006/17rxze_ieztkolfmfrtmmrrgqzdambqgyyde_1024x827.jpg_48x48.webp',
+                created: 1574770323,
+                userCommend: '挺不错现在穿很合适不热不冷卖家服务很好快递很快',
+              },
+            ]
+          },
+          recommendInfo: [
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content: '2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content: '2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content: '2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content: '2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content: '2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price: 29.8
+            },
+            {
+              link: '',
+              imgUrl: 'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content: '冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price: 39
+            },
+          ]
+        },
+        {
+          id:'1',
+          imgUrl:'https://s5.mogucdn.com/p1/150726/14dhcd_ie2gmzrqmu3tsmlbgizdambqgiyde_800x1200.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:60.90,
+          coll:3,
+          topImage: [
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ie2damjvge3tsmlbgizdambqgiyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ieztemzsga3tsmlbgizdambqgyyde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/p1/150726/14dhcd_ie2tiyjxgu3tsmlbgizdambqhayde_800x1200.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/p1/150726/14dhcd_ieytoobzme3tsmlbgizdambqmeyde_800x1200.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:87,
+          desc:'秋冬新款职业装女装套装裤韩版修身OL面试正装工作服大学生西装',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量27人','收藏3人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 优质面料 一粒扣西装 修身气质工作服 抗皱免烫 快速发货 免烫抗皱 OL百搭 偏小半码，选用进口面料，手感舒适柔软亲肤，经久耐穿不易褪色，简单的设计，时尚大方不失小性感，甜美优雅，有着职业女性的气质，穿着靓丽动感',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/190923_6jd68ak1fb0aad070a8fdc9dfbe80_750x1022.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4timlgha4tkmryguzdambqgqyde_790x1234.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrtmzbqhe4tkmryguzdambqhayde_788x814.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_5k60jdk8b2l60g44b6cda87a0dfhc_750x1041.jpg_468x468.webp',
+              'https://s11.mogucdn.com/p1/151216/17yt7p_ie4dozbyhe4tkmryguzdambqgiyde_790x1209.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqwintche4tkmryguzdambqgyyde_788x1094.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifqteyrsme4tkmryguzdambqgyyde_788x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/190924_1f3a48559ci505cehl84c7gl202h1_750x916.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/190923_0051d7jd615faab5hli4cbeke3k12_750x951.jpg_468x468.webp',
+              'https://s5.mogucdn.com/p1/151216/17yt7p_ifrdgzlbme4tkmryguzdambqmeyde_788x632.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','裙长','肩宽','裤长','腰围','衣长','胸围','大腿围','臀围','袖长'],
+                s_size:['S','42','36','98','64','52','82','48','84','56'],
+                m_size:['M','43','37','99','68','55','86','50','88','57'],
+                l_size:['L','43','38','100','72','56','90','52','92','58'],
+                xl_size:['XL','44','39','100','76','57','94','54','96','59'],
+                xxl_size:['XXL','44','40','101','80','58','98','56','100','60'],
+                xxxl_size:['XXXL','45','41','102','84','58','102','58','104','60'],
+                xxxxl_size:['4XL',' ','42','103','88','56','106','59','108','60'],
+              },
+              advance:{
+                color:'四件套 黑外套+裙子+马甲+白衬衫,四件套 蓝外套+裤子+裙子+白衬衫,三件套 黑外套+黑裤子+黑裙子,两件套 黑外套+黑裤子,四件套 蓝外套+裤子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝裙子,四件套 黑外套+裤子+裙子+黑马甲,单件 黑色外套,三件套 蓝外套+蓝裙子+白衬衫,两件套 蓝外套+蓝裤子,四件套 蓝外套+裙子+马甲+白衬衫,三件套 蓝外套+蓝裤子+蓝马甲,四件套 黑外套+裤子+马甲+白衬衫,三件套 黑外套+黑裙子+黑马甲,单件 黑色马甲,四件套 黑外套+裤子+裙子+白衬衫,四件套 蓝外套+裤子+裙子+蓝马甲,两件套 黑外套+黑裙子,三件套 黑外套+黑裙子+白衬衫,两件套 蓝外套+蓝裙子,三件套 黑外套+黑裤子+白衬衫,三件套 蓝外套+蓝裤子+白衬衫,单件 蓝色外套,三件套 黑外套+黑裤子+黑马甲,单件 藏蓝马甲',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'韩系',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'哒哒哒哒',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg',
+                created:1574770320,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'2',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/180930_6al8chi6i5i01fdeal1ecd1lj6kl5_640x960.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:126.00,
+          coll:5,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/180930_2b2e301a6diffdjlcbjd857dbk0g2_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_3li3i7e8dbcbjda2925702054bi4f_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_0282hh2ddd5l6315c6jb93bh0g64k_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/180930_6a561g64id9f7a44k1bkddei997c4_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:180,
+          desc:'秋季韩版新款西装女英伦风时尚正装职业装女装套大学生面试工作服',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量47人','收藏5人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/191127_067l5c2e4g38e4dg42jj8bebfc28a_200x200.jpg_200x9999.v1c7E.70.webp',
+            name:'岚心云职业装',
+            cCells:'21794',
+            cGoods:173,
+            score:[4.64,5,4.82],
+          },
+          detailInfo:{
+            desc:'赠送运费险 甄选抗皱面料，通勤减龄，一套成就职场女神 修身显瘦 通勤OL 名媛小香风 工作服',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_4i0c67b8l5j7ak8d29i8fk6l8kajk_790x1014.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1d6j48614c37jc8dk90idc3cg6dc4_790x979.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_7hc8cha3g838c0d8cf351hkl40k1l_790x596.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5ihl65h65ee1abl183lg56340b53i_790x985.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_5fgjd5g6kck665kd2fg2c02439g24_790x852.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2bhh602aaa1ei063d1lffb21i49i3_790x1011.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_533i33g230hbdjhgd12h677b60hg0_790x714.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_6c27bb9l3bdc388aa5c0906a0i0c2_790x595.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/180930_2g61g1ff483l35c03863jl821k2c1_790x687.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/180930_1333iif6aak01iag6f8ll2kk279k3_790x1222.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','肩宽'],
+                s_size:['S','36'],
+                m_size:['M','37'],
+                l_size:['L','38'],
+                xl_size:['XL','39'],
+                xxl_size:['XXL','40'],
+                xxxl_size:['XXXL','41'],
+                xxxxl_size:['4XL','42'],
+              },
+              advance: {
+                color:'黑色外套+黑色裙子,黑色外套+黑色裤子,黑色外套+黑裙子+灰色衬衫,灰色外套+灰色裤子+白衬衫,黑色外套+黑色裤子+灰色衬衫,黑色外套+黑裤子+黑裙子+灰色衬衫,灰色外套+灰色裤子,黑色西装,灰色西装,黑色外套+黑裤子+黑裙子',
+                allsize:'S,XL,4XL,L,M,XXL,XXXL',
+                style:'英伦',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'刘明明Althea',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190206_24d2i0302b59k8k4fh1f806i6629e_132x132.jpg_48x48.webp',
+                created:1574770321,
+                userCommend:'质量不错，大小合适1.6250公斤',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'5',
+          imgUrl:'https://s5.mogucdn.com/mlcdn/776a41/200113_3jl2lfd3f63c6k01d9jd77g033684_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:146.40,
+          coll:8,
+          topImage:[
+            'https://s11.mogucdn.com/mlcdn/c45406/181018_6adla5iee98dabchhbbcafhdll14e_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181018_726865k3e8jc13fc4f30c0bfijci0_640x860.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181018_8acj3861e2bjkijff4ale7f98c60f_640x956.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181018_4a096h09bagkb436i4840j4bk1ilb_640x580.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:240,
+          desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+          discountDesc:'6折',
+          discountBgColor:'deeppink',
+          columns:['销量37人','收藏8人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s11.mogucdn.com/mlcdn/c45406/171124_71k6c9bjg7ll11k8ga287c4hlb0i3_246x246.jpg_200x9999.v1c7E.70.webp',
+            name:'小芊家',
+            cCells:'16387',
+            cGoods:210,
+            score:[4.73,4.32,4.66],
+          },
+          detailInfo:{
+            desc:'顾森湘同款chic港味森系女学生ins超火中长款冬季女装新款韩版翻领单排扣袖拌大衣毛呢外套',
+            showImageUrl:[
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_0ce24cbel2l03iebkb1iikdh271fl_655x651.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_5156bc3j1e8gb5870e0568j26iif7_672x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_7ad9604d3lidc6ak2f1f07l2036dk_692x724.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_73h53cl1j1cj2g624j7ec90381e22_696x683.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_0i18kba6kej7diegll7d1h6c093dd_689x752.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_75flhlei9fh03c7bi8c26cg7hji3h_691x717.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_3fgjl5j0ehk9a9i13a7k80b66hdfg_653x652.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1fk68b27h3861b64e7g4jkih6i843_656x704.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181018_3kfgbg8g15leef8fj4bhe42fkk85g_672x719.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181018_1b5hcad1ffgi4hk1ghhh82hd3j870_682x726.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）'],
+                s_size:['S','96'],
+                m_size:['M','97'],
+                l_size:['L','98'],
+                xl_size:['XL','99'],
+              },
+              advance:{
+                color:'蓝色,米白色',
+                season:'秋冬',
+                materialQua:'复合',
+                neckline:'其他领型',
+                sleeveLen:'长袖',
+                touch:'淑女',
+                allsize:'S,XL,L,M',
+                skirtLen:'长款（81-100cm）',
+                combinationForm:'oversize',
+              }
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'w***i',
+                avatar:'https://s5.mogucdn.com/mlcdn/5abf39/190104_757l6b8kdj1di45dg713d892ack9j_400x400.jpg_48x48.webp',
+                created:1574770323,
+                userCommend:'衣服质量很不错，版型非常好，值得购买',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
+        },
+        {
+          id:'6',
+          imgUrl: 'https://s5.mogucdn.com/mlcdn/776a41/200113_1g648a7207eij4c1fcgb40612kbd4_750x1125.jpg_300x400.v1cAC.40.webp',
+          text:'#脱单必备，拒绝单身！# #千万不要让男友帮你拆快递！# 现在你们都在穿什么衣服呐？天气越来越冷，我已经准备上过冬的外套了……你们呢？',
+          price:155.00,
+          coll:8,
+          topImage:[
+            'https://s5.mogucdn.com/mlcdn/c45406/181109_442503gagfa5ccj80f9k870bc2g8b_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/181109_2ckh2i88kcfed7cc3j7dlckiihck9_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s5.mogucdn.com/mlcdn/c45406/181109_4307a95li7el9c56a7jbeeja814c5_640x960.jpg_640x960.v1cAC.70.webp',
+            'https://s11.mogucdn.com/mlcdn/c45406/181109_77ea2c2b336ljj0e997jj80dkid3i_640x960.jpg_640x960.v1cAC.70.webp',
+          ],
+          oldPrice:221.43,
+          desc:'羽绒棉服女新款冬季中长款韩版宽松加厚大毛领茧型蝙蝠袖外套潮',
+          discountDesc:'7折',
+          discountBgColor:'deeppink',
+          columns:['销量37人','收藏8人'],
+          services:['72小时内发货','免运费','全国联保','延误必赔'],
+          shopInfo:{
+            shopLogo:'https://s5.mogucdn.com/p1/160302/25zhml_ifrtanjxgfrwcyzqg4zdambqhayde_230x230.jpg_200x9999.v1c7E.70.webp',
+            name:'优米女孩',
+            cCells:'42910',
+            cGoods:2167,
+            score:[4.49,5,4.82],
+          },
+          detailInfo:{
+            desc:'没错.你看到这款棉服的时候.就是冬季已经快来临了.我们作为穿搭的时髦精，是要早点GET新潮流.好看的衣服要早点准备就绪啦~~~简洁的风格.款式大方.几年都不会过时。',
+            showImageUrl:[
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_3fc807jkek8aakblb162j96c6bkda_752x862.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_8fcgi460f22hh2787cach6eh6alc1_752x789.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c45406/181109_0i1ajcdj9k2dighk7bh09hfcjad05_752x821.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6jihhedf2528kl95k1k3kab81k0gf_751x846.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_47ekkdic9b9fb0cg80iihd073e88g_752x882.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_15eca623j7l83bg5ibd6afdi969ae_756x824.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_6lb3dld8l6fa0839aigk6a6d930d7_755x908.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_2ah0k20a30a6cha0b9gifegd800b9_756x895.jpg_468x468.webp',
+              'https://s5.mogucdn.com/mlcdn/c45406/181109_1644b2ka43d98ie136h9ca4cici7d_755x805.jpg_468x468.webp',
+              'https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png_468x468.webp',
+            ],
+            detailParams:{
+              basic:{
+                size:['尺码','衣长（前）','肩宽','胸围','袖长'],
+                xs_size:['XS','85','68','118','68'],
+                s_size:['S','86','69.5','122','69'],
+                m_size:['M','87','71','126','70'],
+                l_size:['L','88','72.5','130','71'],
+                xl_size:['XL','89','74','134','72'],
+                xxl_size:['XXL','90','75.5','138','73'],
+              },
+              advance:{
+                thinAndThick:'加厚',
+                color:'黑色',
+                allsize:'S,XL,XS,L,M,XXL',
+                clothesLen:'中长款（66-80cm）',
+                type:'直身',
+                season:'冬季',
+                materialQua:'其他',
+                sleeveLen:'长袖',
+                filler:'棉61%～70%',
+                touch:'甜美',
+              },
+            }
+          },
+          rate:{
+            cRate:'125',
+            list:[
+              {
+                userName:'萌1106萌',
+                avatar:'https://s11.mogucdn.com/b7/avatar/150708/1cvtpu_ie2teoleheygimrugizdambqhayde_400x400.jpg_48x48.webp',
+                created:1574770324,
+                userCommend:'衣服收到了，质量挺好的，上身效果不错，卖家服务态度很好！满意。',
+              },
+            ]
+          },
+          recommendInfo:[
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_82b10d6gl5cg6j86ch154aejcl3k7_3332x4999.jpg_320x999.webp',
+              content:'2件55半高领套头毛衣女秋冬新款韩版百搭显瘦针织打底衫上衣潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191211_757ld7hg37c66c0a94fekjf24k7k0_6664x9998.jpg_320x999.webp',
+              content:'2件55秋冬韩版新款加绒打底衫女高领学生长袖T恤内搭保暖上衣',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/181210_50ldbcd5ci43ee7i60d69f65c12k7_640x960.jpg_320x999.webp',
+              content:'2件55秋新款半高领毛衣女修身紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/191028_52839baaei887a34glha6kddhca4j_3332x4999.jpg_320x999.webp',
+              content:'2件55秋冬新款半高领毛衣女修紧身保暖百搭内搭长袖打底针织衫',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s11.mogucdn.com/mlcdn/c45406/191113_7ach5873i78hfbg3jhafb5dg17h2h_3332x4999.jpg_320x999.webp',
+              content:'2件55新款黑色修身秋季长袖针织衫秋冬内搭毛衣打底衫上衣女潮',
+              price:29.8
+            },
+            {
+              link:'',
+              imgUrl:'https://s5.mogucdn.com/mlcdn/c45406/190907_50hf7ig3ihkfb4j6l7lbc5f1003jg_640x960.jpg_320x999.webp',
+              content:'冬天高领打底毛衣女套头百搭修身内搭秋季慵懒风堆堆领针织衫黑色',
+              price:39
+            },
+          ]
         },
       ]
     }
