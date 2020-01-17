@@ -17,5 +17,6 @@ export class  Goods{
     this.columns = itemInfo.columns;
     this.services = itemInfo.services;
     this.detailInfo = itemInfo.detailInfo;
+    this.text = itemInfo.text;
   }
 }

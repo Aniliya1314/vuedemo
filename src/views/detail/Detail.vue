@@ -1,7 +1,7 @@
 <template>
     <div class="detail">
-      <detail-nav-bar @titleClick="titleClick"/>
-      <scroll class="content" ref="scroll">
+      <detail-nav-bar @titleClick="titleClick" ref="nav"/>
+      <scroll class="content" ref="scroll" @scroll="getPositionY" :probe-type="3">
         <detail-swiper :top-image="topImage"/>
         <detail-base-info :data="detailData"/>
         <detail-shop-info :shop-info="shopInfo"/>
@@ -10,6 +10,8 @@
         <detail-comment-info ref="comment" :comment-info="commentInfo"/>
         <detail-recommend ref="recommend" :recommend="recommend"/>
       </scroll>
+      <detail-bottom-bar @addToCart="addToCart"/>
+      <back-top v-show="isShow" @click.native="toTop"/>
     </div>
 </template>
 <script>
@@ -23,14 +25,15 @@
   import Scroll from "../../components/scroll/Scroll";
   import {allData} from "../../network/data";
   import {Goods} from "../../network/detail";
-  import {itemListenerMixin} from "../../assets/js/mixins";
+  import {backTop, itemListenerMixin} from "../../assets/js/mixins";
   import DetailImageInfo from "./childComps/detailimageinfo/DetailImageInfo";
   import DetailParamsInfo from "./childComps/detailparamsinfo/DetailParamsInfo";
+  import DetailBottomBar from "./childComps/detailbottombar/DetailBottomBar";
   import {debounce} from "../../assets/js/utils";
   export default {
     name: "Detail",
-    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo,DetailImageInfo,DetailParamsInfo,DetailCommentInfo,DetailRecommend,},
-    mixins:[itemListenerMixin],
+    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo,DetailImageInfo,DetailParamsInfo,DetailCommentInfo,DetailRecommend,DetailBottomBar},
+    mixins:[itemListenerMixin,backTop],
     data(){
       return{
         iid:null,
@@ -42,7 +45,8 @@
         commentInfo:[],
         recommend:[],
         themeTopYs:[],
-        getThemesTopY:null
+        getThemesTopY:null,
+        currentIndex:0,
       }
     },
     methods:{
@@ -75,6 +79,26 @@
         // console.log(index);
         // this.themeTopYs[]
         this.$refs.scroll.scrollTo(0,-this.themeTopYs[index],200)
+      },
+      getPositionY(position){
+        const positionY = Math.abs(position.y);
+        for (let i = 0;i<this.themeTopYs.length-1;i++){
+          if (this.currentIndex!==i &&(positionY >= this.themeTopYs[i] && positionY <= this.themeTopYs[i+1])){
+            this.currentIndex = i;
+            this.$refs.nav.currentIndex = this.currentIndex;
+          }
+        }
+        this.isShow = positionY > 500;
+      },
+      addToCart(){
+        // console.log(111)
+        const product = {};
+        product.image = this.topImage[0];
+        product.title = this.detailData.desc;
+        product.desc = this.detailData.text;
+        product.price = this.detailData.price;
+        product.iid  = this.iid;
+        this.$store.dispatch('addCart',product)
       }
     },
     created() {
@@ -92,9 +116,9 @@
         this.themeTopYs.push(this.$refs.params.$el.offsetTop-40);
         this.themeTopYs.push(this.$refs.comment.$el.offsetTop-40);
         this.themeTopYs.push(this.$refs.recommend.$el.offsetTop-40);
-        console.log(this.themeTopYs)
-      })
-
+        this.themeTopYs.push(Number.MAX_VALUE);
+        // console.log(this.themeTopYs)
+      },200)
     },
     mounted() {
     }
@@ -111,6 +135,6 @@
     z-index: 2;
   }
   .content{
-    height: calc(100% - 50px);
+    height: calc(100% - 40px - 49px);
   }
 </style>

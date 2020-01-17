@@ -20,6 +20,7 @@ export function formatData(date,fmt) {
 function  padLeftZero(str) {
   return ('00'+ str).substr(str.length)
 }
+
 export function debounce(func,delay){
   let timer = null;
   return function(...args){

@@ -20,7 +20,7 @@
       <goods-list :goodslist="showList"/>
     </scroll>
 <!--    自定义组件并没有@click方法-->
-    <back-top  @click.native="backTop" v-show="isShow"/>
+    <back-top  @click.native="toTop" v-show="isShow"/>
   </div>
 </template>
 <script>
@@ -31,14 +31,13 @@
   import TabControl from "../../components/tabcontrol/TabControl";
   import GoodsList from "../../components/goodslist/GoodsList";
   import Scroll from "../../components/scroll/Scroll";
-  import BackTop from "../../components/backtop/BackTop";
   import {requestAllData,getHomeGoods} from "../../network/home";
   import {allData} from "../../network/data";
-  import {itemListenerMixin} from "../../assets/js/mixins";
+  import {backTop, itemListenerMixin} from "../../assets/js/mixins";
 
   export default {
     name: "Index",
-    components:{NavBar,HomeSwiper,HomeRecommendView,HomeCommend,TabControl,GoodsList,Scroll,BackTop,},
+    components:{NavBar,HomeSwiper,HomeRecommendView,HomeCommend,TabControl,GoodsList,Scroll,},
     data(){
       return{
         typeItem:'pop',
@@ -91,7 +90,7 @@
       }
     },
     // 混入
-    mixins:[itemListenerMixin],
+    mixins:[itemListenerMixin,backTop],
     methods:{
       requestAllData(){
         requestAllData().then(res=>{
@@ -124,10 +123,6 @@
         // console.log('发射时：'+this.typeItem)
         // console.log(index)
       },
-      backTop(){
-        // console.log('1111')
-        this.$refs.scroll.scrollTo(0,0,1500)
-      },
       scrollContent(position){
         // console.log(position)
         this.isShow = (-position.y) > 500;
@@ -138,7 +133,7 @@
         this.$refs.scroll.pullingUp();
       },
       swiperImgload(){
-        // console.log(this.$refs.tabControl.$el.offsetTop);
+        // console.log(this.$refs.tabControl2.$el.offsetTop);
       },
       commendLoad(){
         this.tabOffsetTop = this.$refs.tabControl2.$el.offsetTop;
@@ -195,6 +190,6 @@
     top:40px;
     left: 0;
     right: 0;
-    bottom: 60px;
+    bottom: 49px;
   }
 </style>
