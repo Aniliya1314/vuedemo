@@ -1,6 +1,6 @@
 <template>
   <div class="goods-list-item" :key="goodsItem.id" @click="itemClick">
-      <img  class="goods-list-item-img"  :src="goodsItem.imgUrl" alt="" @load="imageItemLoad">
+      <img  class="goods-list-item-img"  v-lazy="goodsItem.imgUrl" alt="" @load="imageItemLoad">
       <div class="goods-list-item-text">
         <p class="item-name">{{goodsItem.text}}</p>
         <span class="item-price">{{goodsItem.price | showPrice}}</span>
@@ -10,8 +10,10 @@
 </template>
 
 <script>
+  import {showPrice} from "../../assets/js/mixins";
   export default {
     name: "GoodsListItem",
+    mixins:[showPrice],
     props:{
       goodsItem:{
         type:Object,
@@ -27,9 +29,9 @@
       }
     },
     filters:{
-      showPrice: function(price){
-        return price.toFixed(2);
-      }
+      // showPrice: function(price){
+      //   return price.toFixed(2);
+      // }
     },
     methods:{
       imageItemLoad(){

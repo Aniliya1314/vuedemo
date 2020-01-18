@@ -12,7 +12,7 @@
     components:{CartListItem},
     computed:{
       ...mapGetters(['getProductList'])
-    }
+    },
   }
 </script>
 

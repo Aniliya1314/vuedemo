@@ -30,3 +30,10 @@ export const backTop = {
   }
 
 }
+export const showPrice = {
+  filters:{
+    showPrice(value){
+      return "¥" + value.toFixed(2);
+    }
+  }
+}

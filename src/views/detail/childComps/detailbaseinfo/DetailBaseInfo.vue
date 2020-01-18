@@ -17,8 +17,11 @@
 </div>
 </template>
 <script>
+  import {showPrice} from "../../../../assets/js/mixins";
+
   export default {
     name: "DetailBaseInfo",
+    mixins:[showPrice],
     props:{
       data:{
         type:Object,
@@ -28,9 +31,9 @@
       }
     },
     filters:{
-      showPrice(price){
-        return "¥" + price.toFixed(2);
-      }
+      // showPrice(price){
+      //   return "¥" + price.toFixed(2);
+      // }
     }
   }
 </script>

@@ -12,6 +12,7 @@
       </scroll>
       <detail-bottom-bar @addToCart="addToCart"/>
       <back-top v-show="isShow" @click.native="toTop"/>
+      <toast/>
     </div>
 </template>
 <script>
@@ -23,16 +24,19 @@
   import DetailCommentInfo from "./childComps/detailcommentinfo/DetailCommentInfo";
   import DetailRecommend from "./childComps/detailrecommend/DetailRecommend";
   import Scroll from "../../components/scroll/Scroll";
-  import {allData} from "../../network/data";
-  import {Goods} from "../../network/detail";
-  import {backTop, itemListenerMixin} from "../../assets/js/mixins";
   import DetailImageInfo from "./childComps/detailimageinfo/DetailImageInfo";
   import DetailParamsInfo from "./childComps/detailparamsinfo/DetailParamsInfo";
   import DetailBottomBar from "./childComps/detailbottombar/DetailBottomBar";
+  import Toast from "../../components/toast/Toast";
+
+  import {allData} from "../../network/data";
+  import {Goods} from "../../network/detail";
+  import {backTop, itemListenerMixin} from "../../assets/js/mixins";
+
   import {debounce} from "../../assets/js/utils";
   export default {
     name: "Detail",
-    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo,DetailImageInfo,DetailParamsInfo,DetailCommentInfo,DetailRecommend,DetailBottomBar},
+    components:{Scroll, DetailNavBar,DetailSwiper,DetailBaseInfo,DetailShopInfo,DetailImageInfo,DetailParamsInfo,DetailCommentInfo,DetailRecommend,DetailBottomBar,Toast},
     mixins:[itemListenerMixin,backTop],
     data(){
       return{
@@ -98,7 +102,10 @@
         product.desc = this.detailData.text;
         product.price = this.detailData.price;
         product.iid  = this.iid;
-        this.$store.dispatch('addCart',product)
+        this.$store.dispatch('addCart',product).then(res =>{
+          this.$toast.show(res)
+          // console.log(this.$toast)
+        })
       }
     },
     created() {
