@@ -34,16 +34,19 @@
   .detail-bottom-bar{
     position: relative;
     height: 49px;
+    /*display: flex;*/
     /*left: 0;*/
     /*right: 0;*/
-    /*bottom:0;*/
+    bottom:0px;
   }
   .detail-content{
     display: flex;
     font-size: 12px;
+    width: 100%;
     align-items: center;
     background: #ffffff;
     text-align: center;
+    justify-content: space-between;
   }
   .detail-item1{
     flex: 1;

@@ -25,7 +25,7 @@
       },
       methods:{
         toPath(){
-          return this.$router.replace(this.path);
+          return this.$router.replace(this.path).catch(data =>{ });
         }
       },
       computed:{
